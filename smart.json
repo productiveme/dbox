@@ -1,9 +1,0 @@
-{
-  "name": "dbox",
-  "description": "Wrapper around npm package dbox - A Node.JS convenience wrapper around the Dropbox API. Simplifies OAuth handshake and removes HTTP ceremony.",
-  "homepage": "https://github.com/sintaxi/node-dbox",
-  "author": "Jaco Swarts <jaco@productive.me>",
-  "version": "0.6.3",
-  "git": "https://github.com/productiveme/meteor-dbox.git",
-  "packages": {}
-}
